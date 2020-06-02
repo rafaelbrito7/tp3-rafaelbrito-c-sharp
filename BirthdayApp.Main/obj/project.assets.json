@@ -1,0 +1,162 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Model": "1.0.0",
+          "Utils": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
+      },
+      "Responses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Responses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Responses.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Model": "1.0.0",
+          "Repository": "1.0.0",
+          "Responses": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
+      },
+      "Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Person/Model.csproj",
+      "msbuildProject": "../Person/Model.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "Responses/1.0.0": {
+      "type": "project",
+      "path": "../Responses/Responses.csproj",
+      "msbuildProject": "../Responses/Responses.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
+    },
+    "Utils/1.0.0": {
+      "type": "project",
+      "path": "../Utils/Utils.csproj",
+      "msbuildProject": "../Utils/Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Service >= 1.0.0",
+      "Utils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/rafaelbrito/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/BirthdayApp.Main/tp3_rafaelbrito.csproj",
+      "projectName": "tp3_rafaelbrito",
+      "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/BirthdayApp.Main/tp3_rafaelbrito.csproj",
+      "packagesPath": "/Users/rafaelbrito/.nuget/packages/",
+      "outputPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/BirthdayApp.Main/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/rafaelbrito/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Service/Service.csproj": {
+              "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Service/Service.csproj"
+            },
+            "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj": {
+              "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

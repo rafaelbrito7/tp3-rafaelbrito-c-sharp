@@ -1,0 +1,9 @@
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/bin/Debug/netstandard2.0/Utils.deps.json
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/bin/Debug/netstandard2.0/Utils.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/bin/Debug/netstandard2.0/Utils.pdb
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netstandard2.0/Utils.csprojAssemblyReference.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netstandard2.0/Utils.csproj.CoreCompileInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netstandard2.0/Utils.AssemblyInfoInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netstandard2.0/Utils.AssemblyInfo.cs
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netstandard2.0/Utils.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netstandard2.0/Utils.pdb

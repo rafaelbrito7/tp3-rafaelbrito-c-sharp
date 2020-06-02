@@ -1,0 +1,14 @@
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/bin/Debug/netcoreapp3.1/Repository.deps.json
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/bin/Debug/netcoreapp3.1/Repository.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/bin/Debug/netcoreapp3.1/Repository.pdb
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/bin/Debug/netcoreapp3.1/Model.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/bin/Debug/netcoreapp3.1/Utils.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/bin/Debug/netcoreapp3.1/Utils.pdb
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/obj/Debug/netcoreapp3.1/Repository.csprojAssemblyReference.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CoreCompileInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfoInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfo.cs
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CopyComplete
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/obj/Debug/netcoreapp3.1/Repository.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/obj/Debug/netcoreapp3.1/Repository.pdb

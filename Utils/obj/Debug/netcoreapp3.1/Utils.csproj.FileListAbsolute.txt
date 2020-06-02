@@ -1,0 +1,9 @@
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/bin/Debug/netcoreapp3.1/Utils.deps.json
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/bin/Debug/netcoreapp3.1/Utils.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/bin/Debug/netcoreapp3.1/Utils.pdb
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netcoreapp3.1/Utils.csprojAssemblyReference.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netcoreapp3.1/Utils.csproj.CoreCompileInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netcoreapp3.1/Utils.AssemblyInfoInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netcoreapp3.1/Utils.AssemblyInfo.cs
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netcoreapp3.1/Utils.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/Debug/netcoreapp3.1/Utils.pdb

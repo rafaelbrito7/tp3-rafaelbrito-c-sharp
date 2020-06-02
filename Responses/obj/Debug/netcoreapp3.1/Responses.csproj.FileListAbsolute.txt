@@ -1,0 +1,12 @@
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/bin/Debug/netcoreapp3.1/Responses.deps.json
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/bin/Debug/netcoreapp3.1/Responses.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/bin/Debug/netcoreapp3.1/Responses.pdb
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/bin/Debug/netcoreapp3.1/Model.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/obj/Debug/netcoreapp3.1/Responses.csprojAssemblyReference.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/obj/Debug/netcoreapp3.1/Responses.csproj.CoreCompileInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/obj/Debug/netcoreapp3.1/Responses.AssemblyInfoInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/obj/Debug/netcoreapp3.1/Responses.AssemblyInfo.cs
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/obj/Debug/netcoreapp3.1/Responses.csproj.CopyComplete
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/obj/Debug/netcoreapp3.1/Responses.dll
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/obj/Debug/netcoreapp3.1/Responses.pdb

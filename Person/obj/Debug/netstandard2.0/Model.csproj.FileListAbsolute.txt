@@ -1,0 +1,4 @@
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/obj/Debug/netstandard2.0/Model.csprojAssemblyReference.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/obj/Debug/netstandard2.0/Model.csproj.CoreCompileInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/obj/Debug/netstandard2.0/Model.AssemblyInfoInputs.cache
+/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/obj/Debug/netstandard2.0/Model.AssemblyInfo.cs

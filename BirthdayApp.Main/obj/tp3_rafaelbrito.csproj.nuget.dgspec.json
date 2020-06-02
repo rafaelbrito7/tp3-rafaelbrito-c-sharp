@@ -1,0 +1,336 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/BirthdayApp.Main/tp3_rafaelbrito.csproj": {}
+  },
+  "projects": {
+    "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/BirthdayApp.Main/tp3_rafaelbrito.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/BirthdayApp.Main/tp3_rafaelbrito.csproj",
+        "projectName": "tp3_rafaelbrito",
+        "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/BirthdayApp.Main/tp3_rafaelbrito.csproj",
+        "packagesPath": "/Users/rafaelbrito/.nuget/packages/",
+        "outputPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/BirthdayApp.Main/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafaelbrito/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Service/Service.csproj": {
+                "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Service/Service.csproj"
+              },
+              "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj": {
+                "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj",
+        "projectName": "Model",
+        "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj",
+        "packagesPath": "/Users/rafaelbrito/.nuget/packages/",
+        "outputPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafaelbrito/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/Repository.csproj",
+        "packagesPath": "/Users/rafaelbrito/.nuget/packages/",
+        "outputPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafaelbrito/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj": {
+                "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj"
+              },
+              "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj": {
+                "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/Responses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/Responses.csproj",
+        "projectName": "Responses",
+        "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/Responses.csproj",
+        "packagesPath": "/Users/rafaelbrito/.nuget/packages/",
+        "outputPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafaelbrito/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj": {
+                "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Service/Service.csproj",
+        "packagesPath": "/Users/rafaelbrito/.nuget/packages/",
+        "outputPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafaelbrito/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj": {
+                "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Person/Model.csproj"
+              },
+              "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/Repository.csproj": {
+                "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Repository/Repository.csproj"
+              },
+              "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/Responses.csproj": {
+                "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Responses/Responses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj",
+        "projectName": "Utils",
+        "projectPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/Utils.csproj",
+        "packagesPath": "/Users/rafaelbrito/.nuget/packages/",
+        "outputPath": "/Users/rafaelbrito/Desktop/tp3_rafaelbrito/Utils/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafaelbrito/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
